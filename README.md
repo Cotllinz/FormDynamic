@@ -1,24 +1,19 @@
-# form_dynamic
+<h1 align='center'>Vue JS - Form Dynamic</h1>
+  <p align="center">
+    ·
+    <a href="https://github.com/Cotllinz/FormDynamic/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Cotllinz/FormDynamic/pulls">Request Feature</a>
+  </p>
 
-## Project setup
-```
-npm install
-```
+![Image Banner](https://github.com/Cotllinz/event_meeting/blob/master/bg_app.jpg)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## About The Project
 
-### Compiles and minifies for production
-```
-npm run build
-```
+MeetRoom Generator is a website that made for Create form but you can add more form and have save form and you can showit in modern table.
+Modern Design
+this website build with tools etc. vue.js, vuex
 
-### Lints and fixes files
-```
-npm run lint
-```
+## License
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+© [Rudy Galih Putra Wijaya](https://github.com/Cotllinz/)
