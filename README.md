@@ -6,7 +6,7 @@
     <a href="https://github.com/Cotllinz/FormDynamic/pulls">Request Feature</a>
   </p>
 
-![Image Banner](https://github.com/Cotllinz/event_meeting/blob/master/bg_app.jpg)
+![Image Banner](https://raw.githubusercontent.com/Cotllinz/FormDynamic/master/bg_apps.jpg)
 
 ## About The Project
 
