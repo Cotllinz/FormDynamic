@@ -1,6 +1,5 @@
 <h1 align='center'>Vue JS - Form Dynamic</h1>
   <p align="center">
-    ·
     <a href="https://github.com/Cotllinz/FormDynamic/issues">Report Bug</a>
     ·
     <a href="https://github.com/Cotllinz/FormDynamic/pulls">Request Feature</a>
