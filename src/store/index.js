@@ -1,11 +1,27 @@
-import Vue from "vue";
-import Vuex from "vuex";
-
-Vue.use(Vuex);
+import Vue from 'vue'
+import Vuex from 'vuex'
+import createPersistedState from 'vuex-persistedstate'
+Vue.use(Vuex)
 
 export default new Vuex.Store({
-  state: {},
-  mutations: {},
+  state: {
+    resultForm: []
+  },
+  mutations: {
+    setResultForm(state, payload) {
+      state.resultForm.push(payload)
+    }
+  },
   actions: {},
+  getters: {
+    getResultForm(state) {
+      return state.resultForm
+    }
+  },
   modules: {},
-});
+  plugins: [
+    createPersistedState({
+      paths: ['resultForm']
+    })
+  ]
+})
