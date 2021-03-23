@@ -140,7 +140,7 @@ export default {
       let nullData = false
       setTimeout(() => {
         for (let i = 0; i < this.form.length; i++) {
-          if (this.form[i].name === '' && this.form[i].alamat === '') {
+          if (this.form[i].name === '' || this.form[i].alamat === '') {
             nullData = true
           }
         }
